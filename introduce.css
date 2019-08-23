@@ -1,0 +1,142 @@
+.header{
+	display: flex;
+	height: 70px;
+	background-color:white;
+	box-shadow: 3px 5px 60px -10px grey;
+	font-weight: bold;
+	color: #3399FF;
+	justify-content: space-between;
+	position: sticky;
+	top:0;
+}
+.header img{
+	height: 50px;
+	width: 50px;
+		padding-left: 80px;
+	margin-top: 12px;
+}
+
+.nemu{
+	font-size: 20px;
+	width: 600px;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 25px;
+	margin-right: 50px;
+}
+a{
+	text-decoration: none;
+	color:#3399FF;
+}
+.profile{
+	display: flex;
+	justify-content: row;
+}
+.profile img{
+	height: 500px;
+	width: 500px;
+	border-radius: 300px;
+	margin: 100px 200px;
+}
+.des{
+	margin-top:250px;
+	justify-content: column;
+	font-size: 20px;
+}
+.des h1{
+		color: #3399FF;
+}
+.hobby h1{
+		color: #3399FF;
+	margin: 100px 0px 0px 0pxs;
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+}
+.hobby .cycling{
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	padding: 100px;
+}
+.hobby .cpics{
+	display: flex;
+	justify-content: space-around;
+}
+.hobby .travel{
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	padding: 100px;
+}
+.hobby .tpics{
+	display: flex;
+	justify-content: space-around;
+}
+.bio{
+	display: flex;
+}
+.bio h1{
+	color: #3399FF;
+	margin: 100px 0px 50px 60px;
+	font-size: 40px;
+
+}
+.bio p{
+	margin-left: 30px;
+	font-size: 20px;
+	display: flex;
+}
+.bio img{
+	width: 400px;
+	height: 450px;
+	margin-left: 300px;
+	margin-top:150px;
+}
+.contact{
+	height: 120px;
+	background-color: #3399FF;
+	margin: -8px;
+	padding-bottom: -20px;
+}
+.contact p{
+	color: white;
+	display: flex;
+	font-size: 30px;
+	justify-content: center;
+	}
+.contact div{
+	color: white;
+	display: flex;
+	font-size: 20px;
+	justify-content: center;	
+}
+body{
+	margin: 0px;
+}
+#te img{
+	height: 600px;
+	width: 800px;
+}
+#st img{
+	height: 600px;
+	width:500px;
+}
+#nnn{
+	color: #3399FF;
+	margin: 100px 0px 50px 0px;
+	font-size: 40px;
+
+}
+.nu{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	align-items: center;
+ 
+}
+.nu .kaku{
+	display: flex;
+	flex-direction: row;
+
+}
